@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 As a Computer Science student, I’m deeply passionate about building intelligent systems that **ot only see the world — but truly understand and interact with it like humans do.**
-- 🤖 Interests: **Computer Vision**, **Data Engineering** and little **Large Language Models (LLMs)**
+- 🤖 Interests: **Computer Vision**, **Data Engineering** and little **NLP & Large Language Models (LLMs)**
 - 🛠️ I really love **Python** and **realize my passion** by some projects. Let's check my repositories.
 ---
 
