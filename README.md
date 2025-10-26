@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
+**Coding Languages:**  
 `Python` `C++` `Java` `Bash` `SQL`
 
 **AI/ML Frameworks:**  
@@ -24,11 +24,11 @@
 **Computer Vision:**  
 `OpenCV` `Ultralytics-YOLO` 
 
-**LLMs & NLP:**  
-`Transformers`
+**LLMs & Agents:**  
+`Transformers` `LangChain`
 
 **Tools & Platforms:**  
-`Docker` `Linux` `Data Engineering tools`
+`Docker` `Linux` `Data Engineering tools: Spark, Airflow`
 
 ---
 
