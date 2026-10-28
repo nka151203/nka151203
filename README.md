@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm An Nguyen Khac</h1>
 
 <p align="center">
-  🧠 AI Enthusiast &nbsp;&nbsp;•&nbsp;&nbsp; 🖥️ Computer Vision &nbsp;&nbsp;•&nbsp;&nbsp; 🗃️ Data Engineering &nbsp;&nbsp;•&nbsp;&nbsp; 💬 LLM (new interest)
+  🧠 AI Enthusiast &nbsp;&nbsp;•&nbsp;&nbsp; 🖥️ Computer Vision &nbsp;&nbsp;•&nbsp;&nbsp; 💬 LLMs
 </p>
 
 ---
